@@ -1,0 +1,377 @@
+<!DOCTYPE HTML>
+<html>
+    <head>        
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/> 
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>        
+        <link href="css/responsive.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="css/bxslider.css" type="text/css" /> 
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bxslider.js"></script>
+        <script type="text/javascript" src="js/jquery.flexslider-min.js"></script> 
+        <!--[if IE 9]>
+         <link href="css/style-ie9.css" type="text/css" rel="stylesheet" if="IE 9" />
+        <![endif]-->        
+        <title>Home Page</title>
+    </head>
+    <body>  
+        <div class="wrapper"> 
+            <header>
+                <div class="header-container">
+                    <div class="header"></div> 
+                </div>
+            </header>
+            <section>
+                <div class="page">
+                    <div class="nav-container">
+                        <ul class="nav-link">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="about_us.html">About Us</a></li>
+                            <li class="product_li">
+                                <a href="product_grid.html">Products</a>
+                                <ul class="sub-ul">
+                                    <li><a href="#">Glucose</a></li>
+                                    <li><a href="#">Nil Sugar</a></li>
+                                    <li><a href="#">Aloe vera juice</a></li>
+                                    <li><a href="#">Wonder Protein</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="#">Marketing</a></li>
+                            <li><a href="contact_us.html">Contact</a></li>
+                            <li class="last"><a href="#">Area Locator</a></li>
+                        </ul>
+                    </div> 
+                    <div class="nav-container iphone-nav-container">
+                        <div class="iphone-nav">
+                            <div class="dropdown-menu">
+                                <ul class="nav-link">
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="about_us.html">About Us</a></li>
+                                    <li><a href="product_grid.html">Products</a></li>
+                                    <li><a href="#">Gallery</a></li>
+                                    <li><a href="#">Marketing</a></li>
+                                    <li><a href="contact_us.html">Contact</a></li>
+                                    <li class="last"><a href="#">Area Locator</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="banner-container">
+                        <div class=""></div>
+                        <div class="logo">
+                            <h1 class="logo"><a title="health Care" href="#"><img src="images/logo.png" alt="logo"/></a></h1>
+                        </div>                
+                        <div class="banner">
+                            <ul class="bxslider">
+                                <li><img src="images/banner.png" alt="banner" height="481" width="999"/></li>
+                                <li><img src="images/banner2.png" alt="banner" height="481" width="999"/></li>
+                                <li><img src="images/banner.png" alt="banner" height="481" width="999"/></li>
+                                <li><img src="images/banner2.png" alt="banner" height="481" width="999"/></li>
+                            </ul>
+                        </div>                                        
+                    </div>
+                    <div class="home-content homepage">
+                        <div class="banner-mid"> 
+                            <div class="fast1">
+                                <div class="fast">
+                                    <b class="b1"></b>
+                                    <b class="b2"></b>
+                                    <b class="b3"></b>
+                                    <b class="b4"></b>
+                                    <b class="b5"></b>
+                                    <b class="b6"></b>
+                                    <b class="b7"></b>
+                                    <b class="b8"></b>
+                                    <b class="b9"></b>
+                                    <b class="b10"></b>
+                                    <b class="b11"></b>
+                                    <b class="b12"></b>
+                                    <b class="b13"></b>
+                                    <b class="b14"></b>
+                                    <div class="boxcontent">
+                                        <h1>Special Offers</h1> 
+                                        <div class="Offers">
+                                            <h2 class="Offers-heading">-20%</h2>
+                                            <p>When You Use your</p>                            
+                                        </div>
+                                        <h3>Credit Card</h3>
+                                        <div class="graas"></div>
+                                    </div>
+                                    <b class="bottom"></b>
+                                    <b class="b14"></b>
+                                    <b class="b13"></b>
+                                    <b class="b12"></b>
+                                    <b class="b11"></b>
+                                    <b class="b10"></b>
+                                    <b class="b9"></b>
+                                    <b class="b8"></b>
+                                    <b class="b7"></b>
+                                    <b class="b6"></b>
+                                    <b class="b5"></b>
+                                    <b class="b4"></b>
+                                    <b class="b3"></b>
+                                    <b class="b2"></b>
+                                    <b class="b1"></b>
+                                </div>
+                                <div class="shadow"></div>
+                            </div>                            
+                            <div class="seceand1">
+                                <div class="fast">
+                                    <b class="b1"></b>
+                                    <b class="b2"></b>
+                                    <b class="b3"></b>
+                                    <b class="b4"></b>
+                                    <b class="b5"></b>
+                                    <b class="b6"></b>
+                                    <b class="b7"></b>
+                                    <b class="b8"></b>
+                                    <b class="b9"></b>
+                                    <b class="b10"></b>
+                                    <b class="b11"></b>
+                                    <b class="b12"></b>
+                                    <b class="b13"></b>
+                                    <b class="b14"></b>
+                                    <div class="boxcontent">                           
+                                        <h1>Free Shipping</h1>
+                                        <span>on orders over $ 99</span>
+                                        <div class="shipping">
+                                            <p>This offer is<br/> valid on all<br/> our store items</p>
+                                            <span class="cart_span"><a href="cart.html"><img src="images/shiping_img.png" alt="cart_image"/></a></span>           
+                                        </div>
+                                    </div>
+                                    <b class="bottom"></b>
+                                    <b class="b14"></b>
+                                    <b class="b13"></b>
+                                    <b class="b12"></b>
+                                    <b class="b11"></b>
+                                    <b class="b10"></b>
+                                    <b class="b9"></b>
+                                    <b class="b8"></b>
+                                    <b class="b7"></b>
+                                    <b class="b6"></b>
+                                    <b class="b5"></b>
+                                    <b class="b4"></b>
+                                    <b class="b3"></b>
+                                    <b class="b2"></b>
+                                    <b class="b1"></b>
+                                </div> 
+                                <div class="shadow"></div>
+                            </div>                            
+                            <div class="last1">
+                                <div class="fast">
+                                    <b class="b1"></b>
+                                    <b class="b2"></b>
+                                    <b class="b3"></b>
+                                    <b class="b4"></b>
+                                    <b class="b5"></b>
+                                    <b class="b6"></b>
+                                    <b class="b7"></b>
+                                    <b class="b8"></b>
+                                    <b class="b9"></b>
+                                    <b class="b10"></b>
+                                    <b class="b11"></b>
+                                    <b class="b12"></b>
+                                    <b class="b13"></b>
+                                    <b class="b14"></b>
+                                    <div class="boxcontent">
+                                        <h1 class="news">News</h1> 
+                                        <span class="amp">&amp;</span>
+                                        <h2 class="update">Updates</h2>
+                                        <a title="Click here now" class="click here " href="#">Click here now</a>
+                                        <div class="graas2">
+                                            <div class="div_top"></div>
+                                            <div class="div_bottom"></div>
+                                        </div>
+                                    </div>
+                                    <b class="bottom"></b>
+                                    <b class="b14"></b>
+                                    <b class="b13"></b>
+                                    <b class="b12"></b>
+                                    <b class="b11"></b>
+                                    <b class="b10"></b>
+                                    <b class="b9"></b>
+                                    <b class="b8"></b>
+                                    <b class="b7"></b>
+                                    <b class="b6"></b>
+                                    <b class="b5"></b>
+                                    <b class="b4"></b>
+                                    <b class="b3"></b>
+                                    <b class="b2"></b>
+                                    <b class="b1"></b>
+                                </div> 
+                                <div class="shadow"></div>
+                            </div>                        
+                        </div>              
+                        <div class="featured-products">                        
+                            <div class="featured-product-mid">
+                                <div class="product-heading">
+                                    <fieldset class="fieldset1">
+                                        <legend class="legend1"><span>Featured Products</span></legend>
+                                    </fieldset>
+                                    <div class="slider"><img src="images/slide_image.png" alt="slide_image"/></div>
+                                </div>
+                                <div class="slider1">
+                                    <ul class="bxslider1 slides">
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image1.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image2.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image3.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a  title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image4.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image2.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a  title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image3.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a  title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="last-li">
+                                            <div class="prduct-image"><a href="product_view.html"><img src="images/image4.png" alt="product-image"/></a></div>
+                                            <h1 class="product-name">High Protein</h1>
+                                            <div class="pro-content">
+                                                <p>An advanced and unique protein supplement , ANKERITE'S HIGH PROTEIN help you build muscle mass , strength, stamina and improve muscle recovery ANKERITE'S HIGH PROTEIN contain 50% protein while most other products contain only 20% or less</p>
+                                                <span class="price">$00.00</span>
+                                                <div class="btn">
+                                                    <a title="More Details" class="more-detail-btn" href="cart.html">More Details</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>                       
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer>
+                <div class="footer-container">
+                    <div class="footer-top">
+                        <div class="footer">
+                            <ul>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="about_us.html">About Us</a></li>
+                                <li><a href="product_grid.html">Products</a></li>
+                                <li><a href="#">Gallery</a></li>
+                                <li><a href="#">Marketing</a></li>
+                                <li><a href="contact_us.html">Contact</a></li>
+                                <li><a href="#">Area Locator</a></li>
+                                <li><a href="login.html">Login</a></li>
+                                <li><a href="#">Register</a></li>
+                            </ul>
+                            <span class="back-top"><a href="#top" style=" opacity: 1;"><i class="icon-up-2"><img src="images/footer_aeeow.png" alt="back-top-arrow"/></i></a></span>
+                        </div>                    
+                    </div>
+                    <div class="footer-bottom">
+                        <div class="footer-link">
+                            <div class="footer-left">
+                                <ul>
+                                    <li><a href="#"><img src="images/footer_img_1.png" alt="social_icon"/></a></li>
+                                    <li><a href="#"><img src="images/footer_img_2.png" alt="social_icon"/></a></li>
+                                    <li><a href="#"><img src="images/footer_img_3.png" alt="social_icon"/></a></li>
+                                    <li class="footer_last_li"><a href="#"><img src="images/footer_img_4.png" alt="social_icon"/></a></li>
+                                </ul>
+                                <span>Web Design by Unicode Systems</span>
+                            </div>
+                            <div class="footer-right">
+                                <div class="footer-content">
+                                    <div class="copy-right">Â© 2013<span class="reserved"> Ankerite Info World.</span> all rights reserved. </div>
+                                    <p>Use of this site constitutes acceptance of our<a href="#"> terms & conditions</a> and <a href="#">privacy policy</a></p>
+                                </div>
+                                <div class="footer-logo"><a title="health Care" href="#"><img src="images/footer_logo.png" alt="footer logo"/></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('.slider1').flexslider({
+                    animation: "slide",
+                    animationLoop: false,
+                    itemWidth: 250,
+                    itemMargin: 0
+                });
+                $('.dropdown-menu').click(function() {
+                    $(this).find('.nav-link').slideToggle('slow');
+                });
+                $('.nav-link li a').click(function(e) {
+                    e.stopPropagation();
+                });
+                $('.bxslider').bxSlider({
+                    auto: true,
+                    autoControls: false,
+                    pager: true
+                });
+                $(window).scroll(function() {
+                    if ($(this).scrollTop()) {
+                        $('#top').fadeIn();
+                    } else {
+                        $('#top').fadeOut();
+                    }
+                });
+                $(".icon-up-2").click(function() {
+                    $("html, body").animate({scrollTop: 0}, 1000);
+                });
+            });
+        jQuery(document).ready(function() {
+                if (jQuery.browser.webkit) {
+                    jQuery('body').addClass('Chrome');
+                }
+            });
+        </script>
+    </body> 
+</html>
